@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1514140582 source:c:\users\25225\desktop\wang\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1562334776 source:c:\users\25225\desktop\wang\example.c
+	<Windows.h>
+
+1562768132 source:d:\wang\wang\example.c
+	<Windows.h>
+	<stdio.h>
+	"prim.h"
+	<math.h>
+
+1562768071 d:\wang\wang\prim.h
+
+1562768402 source:d:\wang\wang\prim.c
+	<stdio.h>
+	<math.h>
+	"prim.h"
+
+1562770844 source:d:\clock\wang\wang\prim.c
+	<stdio.h>
+	<math.h>
+	"prim.h"
+
+1562770791 d:\clock\wang\wang\prim.h
+
+1562812502 source:d:\clock\wang\wang\example.c
+	<Windows.h>
+	<stdio.h>
+	<math.h>
+	"prim1.h"
+
+1562771138 source:d:\clock\wang\wang\prim1.c
+	<stdio.h>
+	<math.h>
+	"prim1.h"
+
+1562811813 d:\clock\wang\wang\prim1.h
+
